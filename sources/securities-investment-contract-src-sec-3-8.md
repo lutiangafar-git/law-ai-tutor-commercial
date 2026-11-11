@@ -3,6 +3,7 @@ topicId: securities-investment-contract-src-sec-3-8
 title: "Securities Regulation Code, Secs. 3.1 and 8.1: Investment contracts and registration"
 subject: Securities Regulation
 syllabusRef: "VI.A.1.a"
+syllabusYear: 2027
 yearLevels: [year-3, year-4, bar]
 status: demo
 keyTerms: ["securities", "investment contract", "Howey test", "common enterprise", "efforts of others", "registration statement"]

@@ -3,6 +3,7 @@ topicId: foreign-investment-philippine-national-ra-7042
 title: "Foreign Investments Act, Sec. 3(a): Who is a Philippine national?"
 subject: Foreign Investments
 syllabusRef: "I.A.11.c.i"
+syllabusYear: 2027
 yearLevels: [year-3, year-4, bar]
 status: demo
 keyTerms: ["Philippine national", "sixty percent", "capital stock outstanding and entitled to vote", "non-Philippine national", "Negative List"]

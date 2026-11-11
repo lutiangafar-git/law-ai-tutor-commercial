@@ -3,6 +3,7 @@ topicId: competition-per-se-agreements-ra-10667-sec-14
 title: "Philippine Competition Act, Sec. 14(a): Per se prohibited agreements"
 subject: Competition Law
 syllabusRef: "VI.D.1.a"
+syllabusYear: 2027
 yearLevels: [year-3, year-4, bar]
 status: demo
 keyTerms: ["anti-competitive agreement", "per se prohibited", "price fixing", "bid manipulation", "competitors"]

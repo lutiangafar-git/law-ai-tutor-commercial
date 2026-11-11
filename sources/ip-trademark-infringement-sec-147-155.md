@@ -3,6 +3,7 @@ topicId: ip-trademark-infringement-sec-147-155
 title: "IP Code, Secs. 147.1 and 155.1: Trademark infringement and likelihood of confusion"
 subject: Intellectual Property
 syllabusRef: "V.B.7"
+syllabusYear: 2027
 yearLevels: [year-2, year-4, bar]
 status: demo
 keyTerms: ["registered mark", "colorable imitation", "dominant feature", "likelihood of confusion", "dominancy test", "infringement"]

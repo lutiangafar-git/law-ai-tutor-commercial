@@ -3,6 +3,7 @@ topicId: corp-director-liability-sec-30
 title: "Revised Corporation Code, Sec. 30: When directors are personally liable"
 subject: Corporations            # must be one of the areas in lib/subject.ts
 syllabusRef: "I.A.6.h"           # REQUIRED: place in the 2027 Bar syllabus outline; sets the topic order
+syllabusYear: 2027                 # REQUIRED: Bar syllabus year this topic was checked against
 yearLevels: [year-2, year-4, bar]   # must match the year plan in lib/subject.ts (tests check this)
                                   # (Year 4 and bar reviewees cover all of Commercial Law)
 status: demo                      # optional: shows the topic with a 'pending lawyer review' banner.

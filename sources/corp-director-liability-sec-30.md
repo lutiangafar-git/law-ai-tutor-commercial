@@ -3,6 +3,7 @@ topicId: corp-director-liability-sec-30
 title: "Revised Corporation Code, Sec. 30: When directors are personally liable"
 subject: Corporations
 syllabusRef: "I.A.6.h"
+syllabusYear: 2027
 yearLevels: [year-2, year-4, bar]
 status: demo
 keyTerms: ["separate juridical personality", "gross negligence", "bad faith", "patently unlawful acts", "jointly and severally", "conflict with their duty"]

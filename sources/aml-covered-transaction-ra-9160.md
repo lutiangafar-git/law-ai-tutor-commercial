@@ -3,6 +3,7 @@ topicId: aml-covered-transaction-ra-9160
 title: "Anti-Money Laundering Act: Covered transactions, reporting and the safe harbor"
 subject: Anti-Money Laundering
 syllabusRef: "IV.E.2"
+syllabusYear: 2027
 yearLevels: [year-3, year-4, bar]
 status: demo
 keyTerms: ["covered transaction", "suspicious transaction", "one banking day", "five hundred thousand pesos", "safe harbor", "good faith"]

@@ -3,6 +3,7 @@ topicId: banking-secrecy-ra-1405-sec-2
 title: "RA 1405, Sec. 2: Secrecy of bank deposits and its exceptions"
 subject: Banking
 syllabusRef: "IV.B.3"
+syllabusYear: 2027
 yearLevels: [year-3, year-4, bar]
 status: demo
 keyTerms: ["absolutely confidential", "written permission of the depositor", "impeachment", "bribery or dereliction of duty", "subject matter of the litigation"]

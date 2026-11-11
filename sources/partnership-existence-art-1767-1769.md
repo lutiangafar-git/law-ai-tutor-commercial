@@ -3,6 +3,7 @@ topicId: partnership-existence-art-1767-1769
 title: "Civil Code, Arts. 1767 and 1769: Is there a partnership?"
 subject: Partnership
 syllabusRef: "I.B.1.b"
+syllabusYear: 2027
 yearLevels: [year-2, year-4, bar]
 status: demo
 keyTerms: ["partnership", "common fund", "dividing the profits", "gross returns", "prima facie evidence", "debt by installments"]

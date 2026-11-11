@@ -3,6 +3,7 @@ topicId: insurance-insurable-interest-sec-13-19
 title: "Insurance Code, Secs. 13, 17, 18 and 19: Insurable interest in property"
 subject: Insurance
 syllabusRef: "II.B"
+syllabusYear: 2027
 yearLevels: [year-2, year-4, bar]
 status: demo
 keyTerms: ["insurable interest", "contemplated peril", "damnify", "when the insurance takes effect", "when the loss occurs"]

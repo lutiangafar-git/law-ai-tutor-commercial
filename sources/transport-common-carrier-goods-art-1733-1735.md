@@ -3,6 +3,7 @@ topicId: transport-common-carrier-goods-art-1733-1735
 title: "Civil Code, Arts. 1733 to 1735: Common carriers and loss of goods"
 subject: Transportation
 syllabusRef: "III.B.1"
+syllabusYear: 2027
 yearLevels: [year-2, year-4, bar]
 status: demo
 keyTerms: ["common carrier", "extraordinary diligence", "vigilance over the goods", "presumed to have been at fault", "natural disaster or calamity"]
