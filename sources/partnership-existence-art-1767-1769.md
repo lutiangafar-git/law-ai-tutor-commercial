@@ -39,10 +39,13 @@ Model answer: No. Under Art. 1769(2), co-ownership or co-possession does not of 
 # Problem drill: exam or bar-style problem
 Problem: (Original bar-style problem.) Edu runs a small carinderia. To buy new stoves, he borrowed P300,000 from his friend Dina. They agreed in writing that Edu would repay the loan by giving Dina 10% of the carinderia's net profits every month until the P300,000 is fully paid. Dina had no say in running the business. When the carinderia failed, Edu's suppliers sued Dina, claiming that because she received a share of the profits, she is Edu's partner and liable for the business debts. Is Dina a partner? Explain.
 Model answer:
-- Answer: No. Dina is not a partner of Edu and is not liable for the carinderia's debts as a partner.
-- Legal basis: Under Art. 1767, a partnership requires a contribution to a common fund with the intention of dividing the profits. Under Art. 1769(4), receiving a share of the profits of a business is prima facie evidence of being a partner, but no such inference may be drawn if the profits were received in payment of a debt by installments or otherwise (Art. 1769(4)(a)).
-- Application: Dina received 10% of the net profits only as the way Edu repaid her P300,000 loan, until it is fully paid. That is payment of a debt by installments, the very case in which Art. 1769(4)(a) forbids inferring a partnership. Dina also had no role in the business and there was no intention to divide profits as partners.
-- Conclusion: Because Dina's profit share was payment of a loan, she is a creditor, not a partner, and the suppliers cannot hold her liable as a partner.
+(Answer) No. Dina is not a partner of Edu and is not liable for the carinderia's debts as a partner.
+
+(Legal basis) Under Art. 1767, a partnership requires a contribution to a common fund with the intention of dividing the profits. Under Art. 1769(4), receiving a share of the profits of a business is prima facie evidence of being a partner, but no such inference may be drawn if the profits were received in payment of a debt by installments or otherwise (Art. 1769(4)(a)).
+
+(Application) Dina received 10% of the net profits only as the way Edu repaid her P300,000 loan, until it is fully paid. That is payment of a debt by installments, the very case in which Art. 1769(4)(a) forbids inferring a partnership. Dina also had no role in the business and there was no intention to divide profits as partners.
+
+(Conclusion) Because Dina's profit share was payment of a loan, she is a creditor, not a partner, and the suppliers cannot hold her liable as a partner.
 
 # Objective and multiple-choice quiz (Year 1-2)
 Q (multiple choice): Under Art. 1767, partners contribute money, property or industry to a common fund with the intention of:

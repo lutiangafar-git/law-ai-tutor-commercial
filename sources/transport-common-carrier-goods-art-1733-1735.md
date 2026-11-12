@@ -40,10 +40,13 @@ Model answer: Yes. Theft by ordinary thieves is not one of the five causes in Ar
 # Problem drill: exam or bar-style problem
 Problem: (Original bar-style problem. A related issue was asked in the 2025 Bar Examination, Commercial Law.) Bilis Trucking, which hauls cargo for anyone who hires it, agreed to carry 500 bags of cement from Bulacan to Pampanga. On the way, an ordinary afternoon rain fell, and water seeped through a torn tarpaulin covering the cargo. Half the bags hardened and became useless. The shipper sued for the loss. Bilis Trucking argued that rain is a natural phenomenon and that the shipper must prove the company was negligent. Is Bilis Trucking liable? Explain.
 Model answer:
-- Answer: Yes. Bilis Trucking is liable for the damaged cement.
-- Legal basis: A common carrier must observe extraordinary diligence in the vigilance over the goods (Art. 1733). It is liable for loss, destruction or deterioration of the goods unless caused only by one of the five causes in Art. 1734, such as flood, storm or other natural disaster or calamity. In all other cases, the carrier is presumed at fault or negligent unless it proves extraordinary diligence (Art. 1735).
-- Application: Bilis Trucking offers its service to anyone, so it is a common carrier. An ordinary afternoon rain is not a flood, storm or other natural disaster or calamity under Art. 1734(1). Since the damage does not fall under any of the five causes, Bilis Trucking is presumed negligent; the shipper does not have to prove negligence. Far from showing extraordinary diligence, the torn tarpaulin shows the carrier failed to protect the cargo.
-- Conclusion: Bilis Trucking cannot overcome the presumption of negligence under Art. 1735, so it is liable to the shipper for the damaged cement.
+(Answer) Yes. Bilis Trucking is liable for the damaged cement.
+
+(Legal basis) A common carrier must observe extraordinary diligence in the vigilance over the goods (Art. 1733). It is liable for loss, destruction or deterioration of the goods unless caused only by one of the five causes in Art. 1734, such as flood, storm or other natural disaster or calamity. In all other cases, the carrier is presumed at fault or negligent unless it proves extraordinary diligence (Art. 1735).
+
+(Application) Bilis Trucking offers its service to anyone, so it is a common carrier. An ordinary afternoon rain is not a flood, storm or other natural disaster or calamity under Art. 1734(1). Since the damage does not fall under any of the five causes, Bilis Trucking is presumed negligent; the shipper does not have to prove negligence. Far from showing extraordinary diligence, the torn tarpaulin shows the carrier failed to protect the cargo.
+
+(Conclusion) Bilis Trucking cannot overcome the presumption of negligence under Art. 1735, so it is liable to the shipper for the damaged cement.
 
 # Objective and multiple-choice quiz (Year 1-2)
 Q (multiple choice): What degree of diligence must a common carrier observe over the goods it carries (Art. 1733)?

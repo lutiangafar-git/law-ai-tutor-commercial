@@ -39,7 +39,10 @@ Model answer: Yes. Under Sec. 3(a), a corporation organized under Philippine law
 # Problem drill: exam or bar-style problem
 Problem: (Original bar-style problem. A related issue was asked in the 2025 Bar Examination, Commercial Law.) Pinoy Media Corp. was organized under Philippine law. Of its voting shares, 55% are held by Filipino citizens and 45% by a Japanese company. It now wants to engage in an activity that existing law reserves to Philippine nationals. It argues that it is a Philippine corporation because it was organized and registered in the Philippines, and Filipinos hold the majority of its shares. Is Pinoy Media Corp. a Philippine national under the Foreign Investments Act? Explain.
 Model answer:
-- Answer: No. Pinoy Media Corp. is not a Philippine national under the Foreign Investments Act.
-- Legal basis: Under Sec. 3(a) of RA 7042, as amended by RA 8179, a corporation organized under Philippine law is a Philippine national only if at least sixty percent (60%) of its capital stock outstanding and entitled to vote is owned and held by Filipino citizens. Activities reserved by law to Philippine nationals may not be done by an enterprise that fails this test.
-- Application: Pinoy Media Corp. was organized in the Philippines, but only 55% of its voting shares are held by Filipinos. A simple Filipino majority, or being organized and registered here, is not enough; the law requires at least 60% of the voting stock. Since Filipinos hold less than 60%, the corporation is a non-Philippine national for this purpose.
-- Conclusion: Pinoy Media Corp. fails the 60% Filipino-ownership requirement and so cannot engage in the activity reserved to Philippine nationals.
+(Answer) No. Pinoy Media Corp. is not a Philippine national under the Foreign Investments Act.
+
+(Legal basis) Under Sec. 3(a) of RA 7042, as amended by RA 8179, a corporation organized under Philippine law is a Philippine national only if at least sixty percent (60%) of its capital stock outstanding and entitled to vote is owned and held by Filipino citizens. Activities reserved by law to Philippine nationals may not be done by an enterprise that fails this test.
+
+(Application) Pinoy Media Corp. was organized in the Philippines, but only 55% of its voting shares are held by Filipinos. A simple Filipino majority, or being organized and registered here, is not enough; the law requires at least 60% of the voting stock. Since Filipinos hold less than 60%, the corporation is a non-Philippine national for this purpose.
+
+(Conclusion) Pinoy Media Corp. fails the 60% Filipino-ownership requirement and so cannot engage in the activity reserved to Philippine nationals.

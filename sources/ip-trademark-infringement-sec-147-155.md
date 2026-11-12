@@ -38,10 +38,13 @@ Model answer: No. Under Sec. 147.1, when an identical sign is used for identical
 # Problem drill: exam or bar-style problem
 Problem: (Original bar-style problem. A related issue was asked in the 2025 Bar Examination, Commercial Law.) Tasa Corp. owns the registered mark "KAPE KO" for ground coffee, printed in bold red letters over a steaming brown cup. A new company starts selling ground coffee in the same supermarkets under "KAPE KOO", also in bold red letters over a steaming brown cup, with its company name in small print at the bottom. Sued for infringement, the new company argues that the marks are not identical and that its company name on the pack shows the products come from a different maker. Is there infringement? Explain.
 Model answer:
-- Answer: Yes. The new company's use of "KAPE KOO" infringes Tasa Corp.'s registered mark.
-- Legal basis: Under Sec. 155.1 of the IP Code, using in commerce, without the owner's consent, a colorable imitation of a registered mark or of its dominant feature on goods where it is likely to cause confusion, mistake or deception is infringement. Sec. 147.1 gives the registered owner the right to prevent the use of similar signs on similar goods when this would likely cause confusion. Under the dominancy test, what matters is the similarity of the marks' dominant features, not exact identity.
-- Application: The dominant features of Tasa Corp.'s mark are the words "KAPE KO" in bold red letters over a steaming brown cup. "KAPE KOO" copies all of these, with only one extra letter, and is used on the same goods sold in the same stores. An ordinary buyer is likely to be confused. A company name in small print does not remove the confusion created by the dominant features, and the marks need not be identical.
-- Conclusion: Because "KAPE KOO" is a colorable imitation of the dominant features of "KAPE KO" on identical goods and is likely to cause confusion, there is trademark infringement under Sec. 155.1.
+(Answer) Yes. The new company's use of "KAPE KOO" infringes Tasa Corp.'s registered mark.
+
+(Legal basis) Under Sec. 155.1 of the IP Code, using in commerce, without the owner's consent, a colorable imitation of a registered mark or of its dominant feature on goods where it is likely to cause confusion, mistake or deception is infringement. Sec. 147.1 gives the registered owner the right to prevent the use of similar signs on similar goods when this would likely cause confusion. Under the dominancy test, what matters is the similarity of the marks' dominant features, not exact identity.
+
+(Application) The dominant features of Tasa Corp.'s mark are the words "KAPE KO" in bold red letters over a steaming brown cup. "KAPE KOO" copies all of these, with only one extra letter, and is used on the same goods sold in the same stores. An ordinary buyer is likely to be confused. A company name in small print does not remove the confusion created by the dominant features, and the marks need not be identical.
+
+(Conclusion) Because "KAPE KOO" is a colorable imitation of the dominant features of "KAPE KO" on identical goods and is likely to cause confusion, there is trademark infringement under Sec. 155.1.
 
 # Objective and multiple-choice quiz (Year 1-2)
 Q (multiple choice): Under Sec. 147.1, when is likelihood of confusion PRESUMED?

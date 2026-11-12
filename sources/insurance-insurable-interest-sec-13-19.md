@@ -43,10 +43,13 @@ Model answer: No. Under Sec. 19, an insurable interest in property must exist bo
 # Problem drill: exam or bar-style problem
 Problem: (Original bar-style problem. Related issues were asked in the 2018 and 2025 Bar Examinations, Commercial Law.) In January 2026, Carlo insured his car against loss and damage for one year. In March 2026, he sold and delivered the car to Dan, who paid in full. Carlo did not tell the insurer and kept the policy. In May 2026, the car was destroyed in a fire while parked in Dan's garage. Carlo filed a claim, arguing that he had an insurable interest when the policy was issued. Should the insurer pay Carlo? Explain.
 Model answer:
-- Answer: No. The insurer is not liable to Carlo.
-- Legal basis: Under Sec. 18 of the Insurance Code, a policy on property is enforceable only for the benefit of a person with an insurable interest in it. Under Sec. 19, an insurable interest in property must exist when the insurance takes effect and when the loss occurs, though not necessarily in between. Under Sec. 13, a person has an insurable interest when the insured peril might directly damnify him.
-- Application: Carlo had an insurable interest in January, when he owned the car. But he sold and delivered it to Dan, who paid in full, in March. When the fire happened in May, the car belonged to Dan, and its loss could not damnify Carlo. Carlo's interest therefore did not exist when the loss occurred, so one of the two required moments is missing.
-- Conclusion: Because Carlo had no insurable interest when the loss occurred, the policy cannot be enforced for his benefit, and his claim fails.
+(Answer) No. The insurer is not liable to Carlo.
+
+(Legal basis) Under Sec. 18 of the Insurance Code, a policy on property is enforceable only for the benefit of a person with an insurable interest in it. Under Sec. 19, an insurable interest in property must exist when the insurance takes effect and when the loss occurs, though not necessarily in between. Under Sec. 13, a person has an insurable interest when the insured peril might directly damnify him.
+
+(Application) Carlo had an insurable interest in January, when he owned the car. But he sold and delivered it to Dan, who paid in full, in March. When the fire happened in May, the car belonged to Dan, and its loss could not damnify Carlo. Carlo's interest therefore did not exist when the loss occurred, so one of the two required moments is missing.
+
+(Conclusion) Because Carlo had no insurable interest when the loss occurred, the policy cannot be enforced for his benefit, and his claim fails.
 
 # Objective and multiple-choice quiz (Year 1-2)
 Q (multiple choice): Under Sec. 19, an insurable interest in PROPERTY must exist:

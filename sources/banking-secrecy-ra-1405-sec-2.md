@@ -39,7 +39,10 @@ Model answer: Yes. Sec. 2 allows deposits to be looked into upon order of a comp
 # Problem drill: exam or bar-style problem
 Problem: (Original bar-style problem. A related issue was asked in the 2024 Bar Examination, Commercial Law.) Lending Plus sued Rey for P2 million, the unpaid balance of a loan. Before trial, Lending Plus asked the court to order Banco Uno to disclose Rey's savings and time deposits, so it could check whether Rey has money to pay any judgment. Rey objected, invoking the secrecy of bank deposits. Should the court grant the request? Explain.
 Model answer:
-- Answer: No. The court should deny the request to examine Rey's deposits.
-- Legal basis: Under Sec. 2 of RA 1405, all bank deposits are absolutely confidential and may not be examined, inquired or looked into, except: upon the depositor's written permission; in impeachment cases; upon a competent court's order in cases of bribery or dereliction of duty of public officials; or where the money deposited is the subject matter of the litigation.
-- Application: Rey has not given written permission, and the case is neither an impeachment nor a bribery or dereliction-of-duty case against a public official. The case is a simple collection suit for an unpaid loan; its subject matter is Rey's debt, not the money in his bank accounts. Wanting to know whether Rey can pay a future judgment does not turn his deposits into the subject matter of the litigation.
-- Conclusion: None of the exceptions in Sec. 2 applies, so Rey's deposits stay confidential and the court should not order their disclosure.
+(Answer) No. The court should deny the request to examine Rey's deposits.
+
+(Legal basis) Under Sec. 2 of RA 1405, all bank deposits are absolutely confidential and may not be examined, inquired or looked into, except: upon the depositor's written permission; in impeachment cases; upon a competent court's order in cases of bribery or dereliction of duty of public officials; or where the money deposited is the subject matter of the litigation.
+
+(Application) Rey has not given written permission, and the case is neither an impeachment nor a bribery or dereliction-of-duty case against a public official. The case is a simple collection suit for an unpaid loan; its subject matter is Rey's debt, not the money in his bank accounts. Wanting to know whether Rey can pay a future judgment does not turn his deposits into the subject matter of the litigation.
+
+(Conclusion) None of the exceptions in Sec. 2 applies, so Rey's deposits stay confidential and the court should not order their disclosure.

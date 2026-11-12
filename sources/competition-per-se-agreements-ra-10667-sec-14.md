@@ -38,7 +38,10 @@ Model answer: Yes. Under Sec. 14(a)(2), agreements between competitors fixing pr
 # Problem drill: exam or bar-style problem
 Problem: (Original bar-style problem. A related issue was asked in the 2025 Bar Examination, Commercial Law.) The three largest cement manufacturers in Mindanao, which compete with one another, agreed to sell cement at the same price of P300 per bag. Charged before the Philippine Competition Commission, they argued that the agreement prevented a ruinous price war, kept supply stable, and therefore benefited consumers. Is their defence valid? Explain.
 Model answer:
-- Answer: No. The defence is not valid; the price agreement is prohibited.
-- Legal basis: Under Sec. 14(a)(1) of the Philippine Competition Act, agreements between or among competitors restricting competition as to price are per se prohibited. The proviso that an agreement contributing to improved production or distribution, with a fair share of benefits for consumers, may not be a violation applies only to agreements under Sec. 14(c), not to per se agreements under Sec. 14(a).
-- Application: The three manufacturers are competitors, and they agreed to sell at one fixed price of P300 per bag. That is an agreement restricting competition as to price, which falls squarely under Sec. 14(a)(1). Because it is prohibited per se, the Commission need not weigh claimed benefits such as avoiding a price war or keeping supply stable.
-- Conclusion: The price-fixing agreement is per se prohibited under Sec. 14(a)(1), and the claimed consumer benefits are not a defence.
+(Answer) No. The defence is not valid; the price agreement is prohibited.
+
+(Legal basis) Under Sec. 14(a)(1) of the Philippine Competition Act, agreements between or among competitors restricting competition as to price are per se prohibited. The proviso that an agreement contributing to improved production or distribution, with a fair share of benefits for consumers, may not be a violation applies only to agreements under Sec. 14(c), not to per se agreements under Sec. 14(a).
+
+(Application) The three manufacturers are competitors, and they agreed to sell at one fixed price of P300 per bag. That is an agreement restricting competition as to price, which falls squarely under Sec. 14(a)(1). Because it is prohibited per se, the Commission need not weigh claimed benefits such as avoiding a price war or keeping supply stable.
+
+(Conclusion) The price-fixing agreement is per se prohibited under Sec. 14(a)(1), and the claimed consumer benefits are not a defence.

@@ -54,7 +54,7 @@ export const SUBJECT: SubjectConfig = {
       "Competition Law",
     ],
   },
-  demoSourceNote: "the Revised Corporation Code, the Civil Code, the Insurance Code and other special laws",
+  demoSourceNote: "the Revised Corporation Code, the Civil Code, the Insurance Code, other special laws and Supreme Court decisions",
 };
 
 /** Areas a student in this year sees. Year 4 sees every area. */

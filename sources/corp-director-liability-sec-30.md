@@ -36,10 +36,13 @@ Model answer: No. As a rule, directors are not personally liable for corporate a
 # Problem drill: exam or bar-style problem
 Problem: (Original bar-style problem. A related issue was asked in the 2012 Bar Examination, Commercial Law.) The board of Mabini Trading Corp. approved, without reading any documents and over the written objection of the corporate treasurer, the transfer of P20 million of corporate funds to an unregistered investment scheme promoted by the chairman's brother. Two weeks later, the scheme's operators disappeared with the money. A minority stockholder sues the directors who voted for the transfer, asking that they personally pay the corporation's loss. The directors argue that only the corporation, a separate juridical person, can be liable for corporate acts. Are the directors personally liable? Explain.
 Model answer:
-- Answer: Yes. The directors who voted for the transfer are personally liable, jointly and severally, for the corporation's loss.
-- Legal basis: As a rule, a corporation's separate personality shields its directors from personal liability. But under Sec. 30 of the Revised Corporation Code, directors who are guilty of gross negligence or bad faith in directing the affairs of the corporation are liable jointly and severally for all damages suffered by the corporation, its stockholders or members and other persons.
-- Application: The directors moved P20 million to an unregistered scheme without reading any documents and despite the treasurer's written objection. Ignoring an express warning and making no inquiry at all before risking a large part of the corporate funds is gross negligence in directing the corporation's affairs. The separate-personality defence does not protect directors who fall under Sec. 30.
-- Conclusion: Because the directors acted with gross negligence, Sec. 30 makes them jointly and severally liable for the P20 million loss.
+(Answer) Yes. The directors who voted for the transfer are personally liable, jointly and severally, for the corporation's loss.
+
+(Legal basis) As a rule, a corporation's separate personality shields its directors from personal liability. But under Sec. 30 of the Revised Corporation Code, directors who are guilty of gross negligence or bad faith in directing the affairs of the corporation are liable jointly and severally for all damages suffered by the corporation, its stockholders or members and other persons.
+
+(Application) The directors moved P20 million to an unregistered scheme without reading any documents and despite the treasurer's written objection. Ignoring an express warning and making no inquiry at all before risking a large part of the corporate funds is gross negligence in directing the corporation's affairs. The separate-personality defence does not protect directors who fall under Sec. 30.
+
+(Conclusion) Because the directors acted with gross negligence, Sec. 30 makes them jointly and severally liable for the P20 million loss.
 
 # Objective and multiple-choice quiz (Year 1-2)
 Q (multiple choice): Under Sec. 30 of the Revised Corporation Code, how are directors liable when they are guilty of gross negligence or bad faith?
